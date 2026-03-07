@@ -266,6 +266,11 @@ HistGradientBoostingRegressor
 This project demonstrates how **data-driven forecasting can support more reliable inventory planning.**
 
 
+
+
+
+
+
 # 📈 소매 수요 예측 프로젝트  
 ## 머신러닝 기반 재고 리스크 감소
 
