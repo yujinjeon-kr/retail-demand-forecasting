@@ -203,6 +203,8 @@ project
 
 # Author
 
+**Yujin Jeon**
+
 Data Analytics Portfolio Project  
 
 Focus areas:
