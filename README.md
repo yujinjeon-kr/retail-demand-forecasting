@@ -100,7 +100,7 @@ HistGradientBoosting achieved the lowest RMSE and significantly outperformed the
 The following visualization compares predictions from multiple models
 against actual demand for a representative product category.
 
-![Forecast Model Comparison](visuals/forecast_model_comparison_top_category.png)
+![Forecast Model Comparison](visuals/forecast_model_comparison_Wine.png)
 
 **Insight**
 
