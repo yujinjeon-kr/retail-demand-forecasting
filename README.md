@@ -94,7 +94,22 @@ Multiple models were evaluated:
 
 HistGradientBoosting achieved the lowest RMSE and significantly outperformed the baseline model.
 
+
+# Forecast Model Comparison
+
+The following visualization compares predictions from multiple models
+against actual demand for a representative product category.
+
+![Forecast Model Comparison](visuals/forecast_model_comparison_top_category.png)
+
+**Insight**
+
+- Machine learning models capture overall demand patterns better than the baseline.
+- HistGradientBoosting provides the most stable predictions across time.
+- Large forecast errors mainly occur during sudden demand spikes.
 ---
+
+
 
 # Forecast Example
 
