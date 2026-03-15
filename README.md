@@ -197,6 +197,8 @@ project
 │   └── Demand_Forecasting_Model_Benchmark.ipynb
 │
 └── README.md
+│
+└── retail_demand_forecasting.pdf
 ```
 
 ---
